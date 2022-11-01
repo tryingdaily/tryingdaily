@@ -1,12 +1,21 @@
-- 👋 Hi, I’m @tryingdaily
+          👋 Hi, I’m @tryingdaily, 
 
-- 👀 I’m interested in data analysis. I am a freelancer who is looking to upskill my CV and build my portfolio. 
+I am a junior data analyst/engineer and I am BSc in Computer and Information Sciences graduate. 
 
-- 🌱 I’m currently learning Excel, Python and SQL to discover customer-driven insights. 
+           🌱 Portfolio:
+ Data Analysis:
+ Grocery chain db {In progress}
+ Data Analysis Assignments: <<Insert link>>
 
-- 💞️ I’m looking to collaborate on data cleaning projects and business intelligence. 
 
-- 📫 How to reach me:
+          👀 Interests:
+Data scrapping + data analysis using Jupyter Notebooks.
+Cognitive AI 
+Cloud 
+Engornomic office setups
+          
+      
+📫 How to reach me:
 
-          📧 trydaily@gmail.com
+          📧 <<insert_email_add>>@gmail.com
 
