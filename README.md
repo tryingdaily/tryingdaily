@@ -1,21 +1,11 @@
-           Hi, I’m @tryingdaily, 
+Hello, I'm @tryingdaily! I'm passionate about software development, particularly in the fields of data analysis and web development. As a data enthusiast, I enjoy exploring datasets to extract valuable insights, and as a web developer, I love creating visually appealing and user-friendly websites and applications.
 
-👋 I am a junior data analyst/engineer and I am BSc in Computer and Information Sciences graduate. 
+Some of my current interests and projects include:
 
-           Portfolio:
- 🌱 Data Analysis:
- Grocery chain db {In progress}
- Data Analysis Assignments: <<Insert link>>
+Data analysis: I'm constantly seeking opportunities to apply my skills in data analysis to real-world problems. I enjoy working with Python and SQL to analyze and visualize data, and I'm currently working on a project that involves analyzing customer behavior in a retail environment.
 
+Web development: I'm proficient in HTML, CSS, JavaScript, and other web development technologies. I'm currently working on building a website for a an up-and-coming  organization that focuses on digital marketing, web design and web development.
 
-         Interests:
- 👀 Data scrapping + data analysis using Jupyter Notebooks.
- 👀 Cognitive AI 
- 👀 Cloud 
- 👀 Engornomic office setups
-          
-      
-How to reach me:
+Software development: I'm always eager to learn new programming languages and technologies. I'm particularly interested in machine learning and AI, and I'm currently working on a project that involves developing a machine learning model to predict the risk of heart disease.
 
-          📧 <<insert_email_add>>@gmail.com
-
+If you're interested in connecting with me or learning more about my projects, feel free to reach out via email at tryingdaily@gmail.com.
