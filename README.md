@@ -1,11 +1,24 @@
-Hello, I'm @tryingdaily! I'm passionate about software development, particularly in the fields of data analysis and web development. As a data enthusiast, I enjoy exploring datasets to extract valuable insights, and as a web developer, I love creating visually appealing and user-friendly websites and applications.
+# Hi there, I'm Zanele! 👋  
 
-Some of my current interests and projects include:
+Here's a little bit about myself:  
+⚡ I'm a self-taught data engineer with experience as a Technical SQL Support Engineer  
+🤔 I'm currently looking for new opportunities in the data engineering field  
+🌱 I’m diving deeper into Hadoop frameworks  
+😄 Feel free to take a look at my projects!  
+📫 How to reach me: LinkedIn  
+📝 My certifications:  
+- Data Engineering, Big Data, and Machine Learning
+- Google Data Analytics Certificate  
+- Taming Big Data with Python  
 
-Data analysis: I'm constantly seeking opportunities to apply my skills in data analysis to real-world problems. I enjoy working with Python and SQL to analyze and visualize data, and I'm currently working on a project that involves analyzing customer behavior in a retail environment.
+### Experience Highlights
+- **Support Engineer L1 at AI and ML SaaS:** Delivered technical support, identified product bugs, and maintained an internal issue tracker, achieving a CSAT score of 88%.
+- **Business Management Intern at Microsoft:** Assisted in daily operations, contributed to process improvements, and collaborated on cross-functional projects.
 
-Web development: I'm proficient in HTML, CSS, JavaScript, and other web development technologies. I'm currently working on building a website for a an up-and-coming  organization that focuses on digital marketing, web design and web development.
+### Education
+- **Bachelor of Computer and Information Sciences from Monash University:** Majors in Software Development and Network Security.
 
-Software development: I'm always eager to learn new programming languages and technologies. I'm particularly interested in machine learning and AI, and I'm currently working on a project that involves developing a machine learning model to predict the risk of heart disease.
-
-If you're interested in connecting with me or learning more about my projects, feel free to reach out via email at tryingdaily@gmail.com.
+### Certifications
+- Microsoft Certified: Azure Data Engineer Associate  
+- Microsoft Certified: Azure AI Fundamentals  
+- Microsoft Certified: Azure Fundamentals  
